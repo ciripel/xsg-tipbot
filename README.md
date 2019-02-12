@@ -1,9 +1,9 @@
-# Bot for ZEN's Discord
+# Bot for Snowmgem's Discord
 (This README will be updated along with bot updates)
 
 Features:
 
-- Tipbot for ZEN. Responds to `!tip`.
+- Tipbot for XSG. Responds to `!tip`.
 - Dynamic plugin loading with permission support.
 
 
