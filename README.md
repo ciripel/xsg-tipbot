@@ -37,3 +37,4 @@ npm run prod
 ## Credits
 
 Based on the original work https://github.com/lbryio/lbry-tipbot from filipnyquist <filip@lbry.io>
+and additional work https://github.com/ZencashOfficial/zen-tipbot from LukasBures <burylukas@seznam.cz>
