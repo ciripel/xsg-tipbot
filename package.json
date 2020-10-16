@@ -10,7 +10,7 @@
     "embed-creator": "^1.2.4",
     "jsonpath": "^1.0.0",
     "moment": "^2.24.0",
-    "mongoose": "^4.13.17",
+    "mongoose": "^5.7.5",
     "node-config": "^0.0.2",
     "numeral": "^2.0.6",
     "zencashjs": "^1.2.0"
